@@ -1,0 +1,22 @@
+.top{
+    margin-bottom: 50px;
+    background-color:blueviolet;
+}
+.bottom{
+    margin-top: 25px;
+    background-color:blanchedalmond;
+}
+
+.top-2{
+    margin-bottom: 20px;
+    background-color: rgb(70, 40, 4);
+    padding: 1px;
+    border: 1px;
+}
+
+.bottom-2{
+    margin-top: 10px;
+    background-color: rgb(7, 89, 89);
+    padding: 1px;
+    border: 1px;
+}
