@@ -1,0 +1,10 @@
+img{
+    width: 300px;
+    border: 20px solid black ;
+    border-radius: 60px 60px 60px 60px;
+}
+.parent{
+    margin: auto;
+    width: 300px;
+    height: auto;
+}
